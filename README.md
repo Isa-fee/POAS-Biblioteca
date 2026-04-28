@@ -11,6 +11,10 @@
 Este projeto tem como objetivo desenvolver um sistema de gerenciamento de dados para uma biblioteca.
 O sistema permitirá o cadastro, consulta, edição e exclusão de livros, além do controle de empréstimos e devoluções.
 
+## Documentação base do Projeto
+
+https://docs.google.com/document/d/16MUFsMHxRDOqG6ue3hIMhtJyaDXn2iL0edodAQmlLZo/edit?usp=sharing
+
 ## Tecnologia de Frontend
 
 - HTML
